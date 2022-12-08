@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sulaimanbehzad
 - 👀 I’m interested in machine learning and data science
-- 🌱 I’m currently improvving my skills in ML and publishing notebooks in Kaggle
+- 🌱 I’m currently improving my skills in ML and publishing notebooks in Kaggle
 - 💞️ I’m looking to collaborate on projects in data science and machine learning
 - 📫 How to reach me through telegram: t.me/sulaimanbehzad 
 
