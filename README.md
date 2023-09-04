@@ -2,7 +2,7 @@
 
 Experienced **Full Stack Engineer** with a passion for **Artificial Intelligence** and **Machine Learning**. Skilled in **Python**, **C#**, and **Computer Vision**, with expertise in developing AI-powered solutions. 
 
-I have a strong background in both *front-end* and *back-end* development, with a focus on creating **robust** and **scalable** applications. My goal is to leverage my technical skills and knowledge to contribute to cutting-edge projects in the field of AI.
+I have a strong background in *back-end* development, with a focus on creating **robust** and **scalable** applications. My goal is to leverage my technical skills and knowledge to contribute to cutting-edge projects in the field of AI.
 
   
 I’m looking to collaborate on projects in data science and machine learning.
