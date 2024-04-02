@@ -1,7 +1,7 @@
 ---
 
 👋 **Hello and Welcome!**  
-I'm **Sulaiman Behzad**, and it's a pleasure to connect with you virtually.
+I'm **<a href="https://www.linkedin.com/in/sulaimanbehzad/" title="Linkedin">Sulaiman</a>**.
 
 
 <div align="center">
