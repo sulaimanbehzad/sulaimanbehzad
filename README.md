@@ -3,18 +3,11 @@
 👋 **Hello and Welcome!**  
 I'm **<a href="https://www.linkedin.com/in/sulaimanbehzad/" title="Linkedin">Sulaiman</a>**.
 
-
-<div align="center">
-  <a href="https://github.com/sulaimanbehzad">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sulaimanbehzad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&org=devfusionlab"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaimanbehzad&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ---
 
 ### 🛠 **Tech Stack**
 
-I'm an experienced Full Stack Engineer with a specific focus on **Artificial Intelligence** and **Machine Learning**. Here's a quick look at the languages and skills I bring to the table:
+I'm an experienced Computer Engineer with a specific focus on **Artificial Intelligence** and **Machine Learning**. Here's a quick look at the languages and skills I bring to the table:
 
 #### **Programming Languages**
 - Python
