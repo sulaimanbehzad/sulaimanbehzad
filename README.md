@@ -1,47 +1,44 @@
 ---
 
 👋 **Hello and Welcome!**  
-I'm **<a href="https://www.linkedin.com/in/sulaimanbehzad/" title="Linkedin">Sulaiman</a>**.
+I'm **Mohammad**.
 
 ---
 
 ### 🛠 **Tech Stack**
 
-I'm an experienced Computer Engineer with a specific focus on **Artificial Intelligence** and **Machine Learning**. Here's a quick look at the languages and skills I bring to the table:
+I'm an experienced Software Engineer with over five years of expertise in **Full-Stack Development**, specializing in building scalable, efficient backend systems and creating seamless web applications. Here’s a snapshot of my technical skills and focus:
 
 #### **Programming Languages**
-- Python
-- C#
-- Java
 - TypeScript
+- JavaScript
+- Python
+- Java
 
 #### **Core Skills**
-- Back-end Development
-- AI & Machine Learning
-- Scalability & Performance
+- Back-end Development with **Express.js**, **NestJS**, and **Django**
+- Front-end Development using **React** and **Vue.js**
+- Microservices Architecture
+- Cloud Deployment with **AWS** (EC2, Cognito User Pool)
+- API Development and Integration
+- Scalability, Optimization, and Testing
 
 ---
 
 ### 💡 **What I'm About**
 
-I'm passionate about creating AI solutions that are not just smart but also make a real difference. I excel in back-end development and aim to work on projects that push the envelope in AI and Machine Learning.
+I’m passionate about delivering end-to-end solutions that are both robust and user-friendly. My expertise spans building scalable microservices for tasks like QR code generation, image processing, and AI integration using Django. I've also developed responsive and interactive web interfaces with modern frameworks like React and Next.js.
+
+Additionally, I have a proven track record in optimizing backend performance, developing cloud-native applications on AWS, and implementing CI/CD pipelines to streamline deployment processes. My experience includes working with tools like Docker, Kubernetes, and Terraform, enabling scalable, reliable, and maintainable solutions across diverse projects.
 
 ---
 
-### 🤝 **Let's Collaborate**
+### 🤝 **Let’s Collaborate**
 
-If you're interested in teaming up on some exciting back-end development or AI projects, I'd love to hear from you!
-
-📬 **Reach Out**:  
-Feel free to message me directly on Telegram at [t.me/sulaimanbehzad](https://t.me/sulaimanbehzad).
+If you’re working on challenging projects involving **Express.js**, **Node.js**, or microservice-based systems and need a developer who brings a combination of technical expertise and best practices gained over years of experience, let’s connect!
 
 ---
 
-Looking forward to the chance to collaborate and make something awesome together. Thanks for stopping by!
+Looking forward to collaborating and building impactful solutions together. Thanks for stopping by!
 
 ---
-
-<!---
-sulaimanbehzad/sulaimanbehzad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
